@@ -17,7 +17,7 @@ available quality is to:
 + .mpeg (don't works all time)
 
 # How it's works?
-- First step: create a Pull requests
+- First step: create a Issues
 - second step: Pull you're image
 - third step: wait for a reply
 - - take ~30m/72h
